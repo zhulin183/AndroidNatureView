@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="badgeview-1.0.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TabLayout/build/intermediates/exploded-aar/q.rorbin/badgeview/1.0.6/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/TabLayout/build/intermediates/exploded-aar/q.rorbin/badgeview/1.0.6/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/q.rorbin/badgeview/1.0.6/128a6d2f2b738964f4203f362ec17240edb1e0fe/badgeview-1.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

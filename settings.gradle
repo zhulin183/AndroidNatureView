@@ -1,1 +1,1 @@
-include ':TabLayout', ':ListView', ':ProgressBar'
+include ':TabLayout', ':ListView', ':ProgressBar', ':GridView'

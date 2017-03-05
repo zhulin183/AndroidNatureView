@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$/GridView" />
             <option value="$PROJECT_DIR$/ListView" />
             <option value="$PROJECT_DIR$/ProgressBar" />
+            <option value="$PROJECT_DIR$/Spinner" />
             <option value="$PROJECT_DIR$/TabLayout" />
           </set>
         </option>

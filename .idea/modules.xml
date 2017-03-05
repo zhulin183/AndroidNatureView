@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/ProgressBar/ProgressBar.iml" filepath="$PROJECT_DIR$/ProgressBar/ProgressBar.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spinner/Spinner.iml" filepath="$PROJECT_DIR$/Spinner/Spinner.iml" />
       <module fileurl="file://$PROJECT_DIR$/TabLayout/TabLayout.iml" filepath="$PROJECT_DIR$/TabLayout/TabLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Toast/Toast.iml" filepath="$PROJECT_DIR$/Toast/Toast.iml" />
     </modules>
   </component>
 </project>

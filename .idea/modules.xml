@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidNatureView.iml" filepath="$PROJECT_DIR$/AndroidNatureView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GridView/GridView.iml" filepath="$PROJECT_DIR$/GridView/GridView.iml" />
       <module fileurl="file://$PROJECT_DIR$/ListView/ListView.iml" filepath="$PROJECT_DIR$/ListView/ListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgressBar/ProgressBar.iml" filepath="$PROJECT_DIR$/ProgressBar/ProgressBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spinner/Spinner.iml" filepath="$PROJECT_DIR$/Spinner/Spinner.iml" />
       <module fileurl="file://$PROJECT_DIR$/TabLayout/TabLayout.iml" filepath="$PROJECT_DIR$/TabLayout/TabLayout.iml" />
     </modules>
   </component>

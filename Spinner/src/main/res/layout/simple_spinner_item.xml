@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:background="@drawable/spinnerbg">
+
+    <ImageView
+        android:id="@+id/bankIcon2"
+        android:layout_width="42dp"
+        android:layout_height="42dp"
+        android:adjustViewBounds="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"/>
+
+    <TextView
+        android:id="@+id/bankName2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/bankIcon2"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="9dp"
+        android:textSize="16sp"
+        android:textColor="#FFF"/>
+
+    <TextView
+        android:id="@+id/bankNum2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/bankIcon2"
+        android:layout_marginLeft="20dp"
+        android:layout_marginBottom="9dp"
+        android:textSize="14sp"
+        android:textColor="#FFF"/>
+
+    <ImageView
+        android:id="@+id/computer"
+        android:layout_width="28dp"
+        android:layout_height="28dp"
+        android:adjustViewBounds="true"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="10dp"
+        android:src="@drawable/computer"/>
+
+</RelativeLayout>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="selectBand">请选择银行：</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/popbg"
+    android:gravity="center">
+
+    <Button
+        android:id="@+id/btn_toTop"
+        android:layout_width="30dp"
+        android:layout_height="28dp"
+        android:focusable="false"
+        android:longClickable="true"
+        android:text="置顶"
+        android:textSize="12sp"
+        android:textColor="#FFFFFF"
+        android:background="#00000000"/>
+
+    <TextView
+        android:layout_width="1dp"
+        android:layout_height="12dp"
+        android:background="#FFFFFF"/>
+
+    <Button
+        android:id="@+id/btn_delete"
+        android:layout_width="30dp"
+        android:layout_height="28dp"
+        android:focusable="false"
+        android:longClickable="true"
+        android:text="删除"
+        android:textColor="#FFFFFF"
+        android:background="#00000000"
+        android:textSize="12sp" />
+
+</LinearLayout>

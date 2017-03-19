@@ -9,8 +9,11 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AlertDialog" />
             <option value="$PROJECT_DIR$/GridView" />
             <option value="$PROJECT_DIR$/ListView" />
+            <option value="$PROJECT_DIR$/Notification" />
+            <option value="$PROJECT_DIR$/PopupWindow" />
             <option value="$PROJECT_DIR$/ProgressBar" />
             <option value="$PROJECT_DIR$/Spinner" />
             <option value="$PROJECT_DIR$/TabLayout" />

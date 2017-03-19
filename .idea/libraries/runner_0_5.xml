@@ -7,6 +7,9 @@
       <root url="jar://$PROJECT_DIR$/Spinner/build/intermediates/exploded-aar/com.android.support.test/runner/0.5/annotations.zip!/" />
       <root url="jar://$PROJECT_DIR$/TabLayout/build/intermediates/exploded-aar/com.android.support.test/runner/0.5/annotations.zip!/" />
       <root url="jar://$PROJECT_DIR$/Toast/build/intermediates/exploded-aar/com.android.support.test/runner/0.5/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Notification/build/intermediates/exploded-aar/com.android.support.test/runner/0.5/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/AlertDialog/build/intermediates/exploded-aar/com.android.support.test/runner/0.5/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/PopupWindow/build/intermediates/exploded-aar/com.android.support.test/runner/0.5/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/GridView/build/intermediates/exploded-aar/com.android.support.test/runner/0.5/jars/classes.jar!/" />
@@ -14,6 +17,9 @@
     </CLASSES>
     <JAVADOC />
     <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/extras/android/m2repository/com/android/support/test/runner/0.5/runner-0.5-sources.jar!/" />
+      <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/extras/android/m2repository/com/android/support/test/runner/0.5/runner-0.5-sources.jar!/" />
+      <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/extras/android/m2repository/com/android/support/test/runner/0.5/runner-0.5-sources.jar!/" />
       <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/extras/android/m2repository/com/android/support/test/runner/0.5/runner-0.5-sources.jar!/" />
       <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/extras/android/m2repository/com/android/support/test/runner/0.5/runner-0.5-sources.jar!/" />
       <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/extras/android/m2repository/com/android/support/test/runner/0.5/runner-0.5-sources.jar!/" />

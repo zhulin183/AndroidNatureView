@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_menu_overflow"
+        android:title="menu">
+        <menu>
+            <item
+                android:id="@+id/action_edit"
+                app:showAsAction="always"
+                android:icon="@drawable/ic_menu_edit"
+                android:title="编辑" />
+            <item
+                android:id="@+id/action_file"
+                app:showAsAction="always"
+                android:icon="@drawable/ic_menu_file"
+                android:title="文件">
+                <!-- file的二级目录 -->
+                <menu>
+                    <item
+                        android:id="@+id/action_share"
+                        app:showAsAction="always"
+                        android:icon="@drawable/ic_menu_share"
+                        android:title="分享"/>
+                    <item
+                        android:id="@+id/action_favorite"
+                        app:showAsAction="always"
+                        android:icon="@drawable/ic_menu_star"
+                        android:title="收藏"/>
+                </menu>
+            </item>
+            <item
+                android:id="@+id/action_about"
+                app:showAsAction="always"
+                android:icon="@drawable/ic_menu_about"
+                android:title="关于" />
+        </menu>
+    </item>
+</menu>
